@@ -1,10 +1,6 @@
-## Moro! 👋
+### Hi, I'm Juha
 
-*That's "hi" in Finnish.* I'm Juha from Finland.
-
-I build across the stack: a self-hosted web app for software teams, an iPhone app that keeps your camera roll tidy, and a space game in Godot. Here's what I'm working on.
-
-**What I'm building**
+I make software in Finland. Here's what I'm working on:
 
 <table>
   <tr>
