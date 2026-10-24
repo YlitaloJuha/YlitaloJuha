@@ -12,8 +12,8 @@ I make software in Finland. Here's what I'm working on:
     <td><b><a href="https://github.com/YlitaloJuha/pickr">Pickr.</a></b><br>Clear burst shots and near-duplicates from your iPhone camera roll. 100% on-device. App Store: coming soon.</td>
   </tr>
   <tr>
-    <td width="112"><img src="images/stellar-orbit.png" width="96" height="96" alt="Stellar Orbit"></td>
-    <td><b>Stellar Orbit</b><br>A top-down mining-survival game for PC, made in Godot.</td>
+    <td width="112"><a href="https://github.com/YlitaloJuha/stellar-orbit"><img src="images/stellar-orbit.png" width="96" height="96" alt="Stellar Orbit"></a></td>
+    <td><b><a href="https://github.com/YlitaloJuha/stellar-orbit">Stellar Orbit</a></b><br>A top-down mining-survival game for PC, made in Godot.</td>
   </tr>
 </table>
 
