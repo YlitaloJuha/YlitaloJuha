@@ -9,7 +9,7 @@ I make software in Finland. Here's what I'm working on:
   </tr>
   <tr>
     <td width="112"><a href="https://github.com/YlitaloJuha/pickr"><img src="images/pickr.png" width="96" height="96" alt="Pickr."></a></td>
-    <td><b><a href="https://github.com/YlitaloJuha/pickr">Pickr.</a></b><br>Clear burst shots and near-duplicates from your iPhone camera roll. 100% on-device. App Store: coming soon.</td>
+    <td><b><a href="https://github.com/YlitaloJuha/pickr">Pickr.</a></b><br>Clear burst shots and near-duplicates from your iPhone camera roll. 100% on-device. <a href="https://apps.apple.com/us/app/pickr/id6762475298">Get it on the App Store</a>.</td>
   </tr>
   <tr>
     <td width="112"><a href="https://github.com/YlitaloJuha/stellar-orbit"><img src="images/stellar-orbit.png" width="96" height="96" alt="Stellar Orbit"></a></td>
