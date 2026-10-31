@@ -29,6 +29,6 @@ Small add-ons for Claude Code. Each one works alone, and they work side by side:
 | [claude-todos](https://github.com/YlitaloJuha/claude-todos) | Say "todo" the way you already do. It gets saved, stays on screen, and is there when you ask. |
 | [claude-ambiguous](https://github.com/YlitaloJuha/claude-ambiguous) | Catches the prompt Claude could take two ways, while you can still say which you meant. |
 | [claude-lazy-reply](https://github.com/YlitaloJuha/claude-lazy-reply) | Answer Claude with one tap: a fast model offers the replies you were about to type. |
-| [claude-cold-cache](https://github.com/YlitaloJuha/claude-cold-cache) | See what your next message will cost before you send it, when the prompt cache has gone cold. |
+| [claude-comeback-cost](https://github.com/YlitaloJuha/claude-comeback-cost) | See what your next message will cost before you send it, when the prompt cache has gone cold. |
 
 <!-- Optional: how to reach you (LinkedIn, email, site). -->
