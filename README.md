@@ -30,5 +30,6 @@ Small add-ons for Claude Code. Each one works alone, and they work side by side:
 | [claude-ambiguous](https://github.com/YlitaloJuha/claude-ambiguous) | Catches the prompt Claude could take two ways, while you can still say which you meant. |
 | [claude-lazy-reply](https://github.com/YlitaloJuha/claude-lazy-reply) | Answer Claude with one tap: a fast model offers the replies you were about to type. |
 | [claude-comeback-cost](https://github.com/YlitaloJuha/claude-comeback-cost) | See what your next message will cost before you send it, when the prompt cache has gone cold. |
+| [claude-dev-shortcuts](https://github.com/YlitaloJuha/claude-dev-shortcuts) | A row of shortcuts above the prompt: challenge the plan, serve it to a new session, walk away, wrap up, and thin out your memory once it has grown. Already contains claude-afk and claude-wrap-up, so use it instead of those two. |
 
 <!-- Optional: how to reach you (LinkedIn, email, site). -->
