@@ -19,6 +19,10 @@ I make software in Finland. Here's what I'm working on:
 
 ### Claude Code mods
 
+<img src="images/claude-mods.png" width="720" alt="The context and limit bars from claude-bars above the row of shortcuts from claude-dev-shortcuts, in the Claude desktop app">
+
+<sub>A quick peek in the desktop app: `claude-bars` on top, `claude-dev-shortcuts` below.</sub>
+
 Small add-ons for Claude Code. Each one works alone, and they work side by side:
 
 | Mod | What it does |
